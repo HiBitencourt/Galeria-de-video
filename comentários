@@ -1,0 +1,42 @@
+<!-- <nav class="menu">
+            <div class="search">
+                <input id="search" type="text">
+                <button id="button"></button>
+            </div>
+        </nav> -->
+
+        <!-- Icons menu
+        <div class="menu_list">
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        </div> -->
+
+
+        <!-- Tentativa de site com vídeos
+            <header>
+            <form class="search_bar">
+                <input class="search_input" type="search" placeholder="Search">
+                <button type="submit" class="search_button"></button>
+            </form>
+    
+        </header>
+        <div class="videos">
+            <section class="videos_sect">
+                <article class="video_conteiner">
+    
+                <video id="EatMango" width="70%" height="60%" controls src="videos\VID-20211013-WA0005.mp4"></video>
+    
+                <video id="Kiara_Filhote" width="40%" height="40%" controls src="videos\VID_89041102_103250_202.mp4"></video>
+    
+                <video id="Kiara_Filhote2" width="40%" height="40%" controls src="videos\VID_89091013_172407_398.mp4"></video>
+    
+                <video id="Kiara_Filhote_with_DadandMom" width="40%" height="40%" controls src="videos\VID-20210322-WA0004.mp4"></video>
+    
+                <video id="Kiara_and_Pandora" width="40%" height="40%" controls src="videos\VID-20210716-WA0023.mp4"></video>
+              
+                </article>
+            </section>
+        </div> -->
